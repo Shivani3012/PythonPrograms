@@ -5,7 +5,7 @@ w.split(" ")
 dc=0
 lc=0
 for i in range(l):
-    if w[i].isalpha()==true:
+    if w[i].isalpha()==True:
         lc+=1
     else:
         dc+=1
